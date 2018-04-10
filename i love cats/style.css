@@ -1,12 +1,11 @@
 
 body {
-background: url(img/img1.jpg) ; 
+    background: url(img/img1.jpg) ; 
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
 }
-
 .content {
     text-align: center;
     margin-top: 35%;
@@ -14,13 +13,11 @@ background: url(img/img1.jpg) ;
     font-size: 25px;
     text-shadow: 4px -2px 6px black;
     font-family: 'Gamja Flower', cursive;
-    
 }
 
 h1, .h1 {
     font-size: 50px;
     font-family: 'Black Han Sans', sans-serif;
-
 }
 .btn1 {
     width: 200px;
@@ -33,26 +30,18 @@ h1, .h1 {
     font-weight: bold;
     background: white;
 }
-
-
 hr {
     width: 800px;
     height: 2px;
 }
-
 .btn-default:hover {
     background:green;
     color: white;
     opacity: .7;
-    
-    
 }
-
 .navbar-default .navbar-nav > li > a {
     color: snow;
 }
-
-
 .navbar-default {
     background-color: #2e611bbf;
 }
@@ -61,7 +50,6 @@ hr {
     color: black;
     text-shadow: 2px -2px 3px white;
 }
-
 .navbar-default .navbar-brand:hover {
     color: white;
 }
